@@ -5,6 +5,7 @@ services:
     environment:
       VERSION: "https://archive.org/download/tiny11-2311/tiny11%202311%20x64.iso"
       DISK_SIZE: "32G"
+      RAM_SIZE: "8G"
       LANGUAGE: "Spanish"
       REGION: "es-ES"
       KEYBOARD: "es-ES"
